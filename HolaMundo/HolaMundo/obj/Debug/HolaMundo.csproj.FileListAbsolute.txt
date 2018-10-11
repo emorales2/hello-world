@@ -1,0 +1,7 @@
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\emorales.NEODECKOFFICE\Documents\my_psight_projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
